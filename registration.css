@@ -1,0 +1,33 @@
+.navi{
+    display: flex;
+    align-items: center;
+    justify-self: center;
+    top: 0;
+    cursor: pointer;
+}
+
+.list{
+    width: 100%;
+    display: flex;
+    align-items: center;
+}
+.list li{
+    list-style: none;
+    padding: 50px 25px;
+}
+a{
+    color: silver;
+    font-weight: bolder;
+    font-size: 30px;
+}
+a:hover{
+    color: red;
+}
+body
+{
+    background-image: url("wallpaperflare.com_wallpaper.jpg");
+}
+input
+{
+    font-weight:50px;
+}

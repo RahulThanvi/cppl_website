@@ -1,0 +1,149 @@
+*{
+    padding: 0;
+    margin: 0;
+    text-decoration: none;
+}
+.img{
+    width: 10%;
+    display: flex;
+    justify-self: center;
+    align-items: center;
+}
+.img img{
+    width: 100%;
+}
+.navi{
+    display: flex;
+    align-items: center;
+    justify-self: center;
+    top: 0;
+    cursor: pointer;
+}
+.list{
+    width: 50%;
+    display: flex;
+    align-items: center;
+}
+.list li{
+    list-style: none;
+    padding: 20px 25px;
+}
+a{
+    color: silver;
+    font-weight: bolder;
+    font-size: 20px;
+}
+a:hover{
+    color: red;
+}
+.bag{
+    background-color: black;
+}
+.ser{
+    padding-left: 500px;
+}
+.bag1{
+    background: url("im2.jpg");
+    width: 1900px;
+    height: 800px;
+    background-size:cover ;
+    background-repeat: no-repeat;
+}
+.py1{
+    position: relative;
+    top: 75px;
+    left: 100px;
+}
+.py2{
+    position: relative;
+    top: 250px;
+    left: 100px;
+}
+.py3{
+    position: relative;
+    top: 500px;
+    left: 750px;
+}
+.py4{
+    position: relative;
+    top: 75px;
+    left: 1100px;
+}
+.py5{
+    position: relative;
+    top: 250px;
+    left: 1000px;
+}
+.text{
+    display: inline;
+    color: white;
+    font-size: 50px;
+    font-weight: bolder;
+    color: gold;
+    text-align: center;
+}
+.bag2{
+    background-color: black;
+} 
+.text1{
+    position: relative;
+    bottom: 600px;
+    text-align: center;
+    font-size: 50px;
+    color: gold;
+}
+.foot{
+    background-color: black;
+}
+.id{
+    color: gold;
+    font-size: 50px;
+    text-align: center;
+    padding: 50px;
+}
+.fa {
+    padding: 20px;
+    font-size:50px;
+    width: 20px;
+    text-align: center;
+    text-decoration: none;
+    border-radius: 100px;
+    margin-left:95px;
+  }
+.fa-facebook{
+    background: blue;
+    color: white;
+}
+.fa-instagram{
+    background: rgb(241, 96, 121);
+    color: black; 
+}
+.fa-snapchat-ghost{
+    background: yellow;
+    color: white; 
+}
+
+.fa-twitter{
+    background: rgb(53, 141, 170);
+    color: white; 
+}
+.fa-pinterest{
+    background: red;
+    color: white; 
+}
+.fa-linkedin{
+    background: rgb(52, 185, 230);
+    color: white; 
+}
+.fa-youtube{
+    background: black;
+    color: white; 
+}
+.fa-google{
+    background: black;
+    color: blue; 
+}
+.fa-skype{
+    background: rgb(0, 191, 255);
+    color: white; 
+}
